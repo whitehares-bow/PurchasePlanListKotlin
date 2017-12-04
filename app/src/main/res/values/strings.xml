@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">PurchasePlanListKotlin</string>
     <string name="action_settings">Settings</string>
+    <string name="product_name">商品名</string>
+    <string name="amount">金額</string>
+    <string name="scheduled_date">予定日</string>
+    <string name="detail">詳細</string>
+    <string name="save">保存</string>
+    <string name="delete">削除</string>
 </resources>
